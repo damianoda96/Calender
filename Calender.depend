@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508275448 source:c:\users\deven\desktop\calender\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+	<sstream>
+
